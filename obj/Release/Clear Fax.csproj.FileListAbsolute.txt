@@ -1,0 +1,8 @@
+C:\Users\billy\Documents\Visual Studio 2017\Projects\Clear Fax\Clear Fax\bin\Release\Clear Fax.exe.config
+C:\Users\billy\Documents\Visual Studio 2017\Projects\Clear Fax\Clear Fax\bin\Release\Clear Fax.exe
+C:\Users\billy\Documents\Visual Studio 2017\Projects\Clear Fax\Clear Fax\bin\Release\Clear Fax.pdb
+C:\Users\billy\Documents\Visual Studio 2017\Projects\Clear Fax\Clear Fax\obj\Release\Clear_Fax.Clear_Fax.resources
+C:\Users\billy\Documents\Visual Studio 2017\Projects\Clear Fax\Clear Fax\obj\Release\Clear_Fax.Properties.Resources.resources
+C:\Users\billy\Documents\Visual Studio 2017\Projects\Clear Fax\Clear Fax\obj\Release\Clear Fax.csproj.GenerateResource.Cache
+C:\Users\billy\Documents\Visual Studio 2017\Projects\Clear Fax\Clear Fax\obj\Release\Clear Fax.exe
+C:\Users\billy\Documents\Visual Studio 2017\Projects\Clear Fax\Clear Fax\obj\Release\Clear Fax.pdb

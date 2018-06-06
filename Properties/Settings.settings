@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Clear_Fax.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=DEVELOP-PC01;Initial Catalog=faxdb4dev;User ID=faxowner;Password=faxpassword</Value>
+    </Setting>
+    <Setting Name="logpath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\\Simon\\Projects\\visual studio 2015\\Projects\\FaxServer\\FaxServer\\Clear_Fax_Log\\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
